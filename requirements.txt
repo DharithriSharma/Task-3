@@ -1,5 +1,5 @@
 python-dotenv==1.0.1
-streamlit==1.22.0
+streamlit==1.38.0
 nltk==3.9.1
 google-generativeai==0.8.1
 joblib==1.4.2
